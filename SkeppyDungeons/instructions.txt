@@ -1,0 +1,9 @@
+Instructions:
+Step 1-Download The Folder
+(To Continue Make sure you Own Launcher Editon. If you own it from Windows Store Please Refer too Extras for a link too DokuCraft Discord,Where you can find Instructions on How too Configure Windows Store Edition)
+Step 2-Go to your Game Files(%localappdata%\Mojang\products\dungeons\dungeons\Dungeons\Content\Paks)
+Step 3-Once you are in your Paks folder make a new folder called ~mods	It MUST HAVE THE ~.
+Step 4-Go too SkinPak Folder.
+Step 5-Put SkinPak in ~mods
+Step 6-Launch the Game through (%localappdata%\Mojang\products\dungeons\dungeons\Dungeons.exe) Recommend Making a Shortcut also Win+R then paste the Location works fastest
+Step 7-Equip your skin and Vibeeeeeeeeeeeeeeeee
